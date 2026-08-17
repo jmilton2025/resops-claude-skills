@@ -31,21 +31,21 @@ Paste the relevant content (research request, screener, brief, etc.) into Claude
 ### Category 3 — Scheduling & Participant Communication
 | Skill | Command | Status |
 |---|---|---|
-| Reminder Draft | `/resops-reminder-draft` | 🔜 Planned |
-| No-Show Response | `/resops-no-show-response` | 🔜 Planned |
-| Scheduling Checklist | `/resops-scheduling-checklist` | 🔜 Planned |
+| Reminder Draft | `/resops-reminder-draft` | ✅ Live |
+| No-Show Response | `/resops-no-show-response` | ✅ Live |
+| Scheduling Checklist | `/resops-scheduling-checklist` | ✅ Live |
 
 ### Category 4 — Incentive Processing
 | Skill | Command | Status |
 |---|---|---|
-| Incentive Guide | `/resops-incentive-guide` | 🔜 Planned |
-| Incentive Tracker Update | `/resops-incentive-tracker-update` | 🔜 Planned |
+| Incentive Guide | `/resops-incentive-guide` | ✅ Live |
+| Incentive Tracker Update | `/resops-incentive-tracker-update` | ✅ Live |
 
 ### Category 5 — Wrap-Up & Reporting
 | Skill | Command | Status |
 |---|---|---|
-| Wrap-Up Checklist | `/resops-wrap-up-checklist` | 🔜 Planned |
-| Impact Update | `/resops-impact-update` | 🔜 Planned |
+| Wrap-Up Checklist | `/resops-wrap-up-checklist` | ✅ Live |
+| Impact Update | `/resops-impact-update` | ✅ Live |
 
 ### Category 6 — Recurring Admin
 | Skill | Command | Status |
