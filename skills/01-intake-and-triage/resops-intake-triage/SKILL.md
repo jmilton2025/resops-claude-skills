@@ -106,6 +106,15 @@ Date/Time: TBD | Duration: 30 min
    - [auto-populate any remaining unknowns here]
 ```
 
+### Step 5 — Auto-create a Google Doc
+
+After producing the full output in chat, immediately create a Google Doc with all of the content using the Google Docs MCP tool (mcp__claude_ai_Google_Docs__createDocument).
+
+- **Title:** `Intake — [Study Name] — [YYYY-MM-DD]` (today's date)
+- **Parent folder:** `1zw--MN_umb_VczMmVhOss6PTn-BCJleg` (P4 Research Ops folder)
+- **Content:** The complete intake summary table, follow-up Slack draft (if any), and kickoff agenda — formatted in markdown
+- After creating the doc, share the link in chat: "📄 Google Doc saved: [link]"
+
 ---
 
 ## Segment-specific reminders
