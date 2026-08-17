@@ -19,33 +19,33 @@ Paste the relevant content (research request, screener, brief, etc.) into Claude
 ### Category 1 — Intake & Triage
 | Skill | Command | Status |
 |---|---|---|
-| Intake & Triage | `/resops-intake-triage` | ✅ Live |
-| Kickoff Prep | `/resops-kickoff-prep` | ✅ Live |
+| Intake & Triage | `/resops-intake-triage` | 🔄 In Progress |
+| Kickoff Prep | `/resops-kickoff-prep` | 🔄 In Progress |
 
 ### Category 2 — Screener Setup
 | Skill | Command | Status |
 |---|---|---|
-| Screener Review | `/resops-screener-review` | ✅ Live |
-| Screener Platform Select | `/resops-screener-select` | ✅ Live |
+| Screener Review | `/resops-screener-review` | 🔄 In Progress |
+| Screener Platform Select | `/resops-screener-select` | 🔄 In Progress |
 
 ### Category 3 — Scheduling & Participant Communication
 | Skill | Command | Status |
 |---|---|---|
-| Reminder Draft | `/resops-reminder-draft` | ✅ Live |
-| No-Show Response | `/resops-no-show-response` | ✅ Live |
-| Scheduling Checklist | `/resops-scheduling-checklist` | ✅ Live |
+| Reminder Draft | `/resops-reminder-draft` | 🔄 In Progress |
+| No-Show Response | `/resops-no-show-response` | 🔄 In Progress |
+| Scheduling Checklist | `/resops-scheduling-checklist` | 🔄 In Progress |
 
 ### Category 4 — Incentive Processing
 | Skill | Command | Status |
 |---|---|---|
-| Incentive Guide | `/resops-incentive-guide` | ✅ Live |
-| Incentive Tracker Update | `/resops-incentive-tracker-update` | ✅ Live |
+| Incentive Guide | `/resops-incentive-guide` | 🔄 In Progress |
+| Incentive Tracker Update | `/resops-incentive-tracker-update` | 🔄 In Progress |
 
 ### Category 5 — Wrap-Up & Reporting
 | Skill | Command | Status |
 |---|---|---|
-| Wrap-Up Checklist | `/resops-wrap-up-checklist` | ✅ Live |
-| Impact Update | `/resops-impact-update` | ✅ Live |
+| Wrap-Up Checklist | `/resops-wrap-up-checklist` | 🔄 In Progress |
+| Impact Update | `/resops-impact-update` | 🔄 In Progress |
 
 ### Category 6 — Recurring Admin
 | Skill | Command | Status |
