@@ -117,3 +117,11 @@ Always produce in this order:
 4. **Kickoff agenda**
 
 Keep the tone warm and practical — this is internal team use, not a formal report.
+
+---
+
+## References
+
+- [Research Ops Main Doc](https://docs.google.com/document/d/1jzoICKM6iQxlfHam44rkPILhBm9NdS1aZxiBSoCZnCw/edit) — master index of all processes and linked documentation
+- [Research Operations Recruiting Playbook](https://docs.google.com/document/d/1qC8Y39YW_DIE6bu8WoNgTh7OUSaKMCcAKIlnWv_gnAM/edit) — full recruitment lifecycle: request → prepare → recruit → monitor → wrap
+- [How to Work with ResOps](https://docs.google.com/document/d/1qLF_HZZlr4ICQsIXr4LueqO8JLIzvvZV1Dg_eWmw0_4/edit) — process overview, SLAs, and submission requirements for researchers
